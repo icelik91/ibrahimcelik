@@ -30,8 +30,8 @@ img_lottie_animation = Image.open("images/yt_lottie_animation.png")
 
 # ---- HEADER SECTION ----
 with st.container():
-    st.subheader("Hi, I am Sven :wave:")
-    st.title("A Data Analyst From Germany")
+    st.subheader("Hi, I am İbrahim :zap:")
+    st.title("A Data Analyst")
     st.write(
         "I am passionate about finding ways to use Python and VBA to be more efficient and effective in business settings."
     )
@@ -66,7 +66,7 @@ with st.container():
     st.write("##")
     image_column, text_column = st.columns((1, 2))
     with image_column:
-        st.image(img_lottie_animation)
+        ##st.image(img_lottie_animation)
     with text_column:
         st.subheader("Integrate Lottie Animations Inside Your Streamlit App")
         st.write(
@@ -89,7 +89,7 @@ with st.container():
             In this video, I'm going to show you how to implement a contact form in your Streamlit app using the free service ‘Form Submit’.
             """
         )
-        st.markdown("[Watch Video...](https://youtu.be/FOULV9Xij_8)")
+        st.markdown("[Watch Video...](not yet)")
 
 # ---- CONTACT ----
 with st.container():
