@@ -1,2 +1,0 @@
-# ibrahimcelik
-#trying
